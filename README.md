@@ -1,10 +1,10 @@
-# App para iOS - Marvel App
+# App para iOS (SwiftUI) - Marvel App
 
 Marvel App es una aplicación iOS que utiliza el patrón de arquitectura MVVM para obtener datos de la API de Marvel a través de una API REST. La aplicación también cuenta con pruebas unitarias para garantizar la calidad del código y soporte para dos idiomas: inglés y español.
 
 
-![Pantalla de inicio](https://postimg.cc/Rqb0v7kB)
-![Pantalla de series](https://postimg.cc/ykMYZV6p)
+![Pantalla de inicio](https://i.postimg.cc/Rqb0v7kB/Simulator-Screenshot-i-Phone-14-Pro-2023-04-06-at-16-34-28.png)
+![Pantalla de series](https://i.postimg.cc/ykMYZV6p/Simulator-Screenshot-i-Phone-14-Pro-2023-04-06-at-16-34-59.png)
 
 ## Características
 
